@@ -5,7 +5,7 @@ Why am I Unique?
 - attends Jan Evangelista Purkyně ***U***niversity in ***Ú***stí nad Labem
 - learning in ***U***nity
 - working on virt***u***al reality projects
-- favo***u***rite hobby: 3D modeling
+- c**u**rrently working on: 3d models for research applications
 <!--
 **matthewjezek/matthewjezek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
